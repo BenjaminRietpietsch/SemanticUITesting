@@ -20,8 +20,9 @@ html {
 ---------------*/
 
 #home .masthead {
-  background-image: url(images/Cockpit.png);
+  background-image: url(images/Cockpit.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
   margin: 0em;
   padding: 5rem 0rem;
 }
